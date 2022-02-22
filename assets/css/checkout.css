@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700&display=swap');
+
+html, body {
+    height: 100%;
+    width: 100%;
+    
+}
+
+.navbar {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+.container {
+    padding: 30px;
+    left: 0;
+    right: 0;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.icon-background {
+    color: #deac3e;
+}
+
+.container h1 {
+    font-size: 45px;
+    margin-top: 30px;
+}
+
+.container img {
+    width: 100%;
+    height: auto;
+}
+
+h1, h2, h5 {
+    text-transform: uppercase;
+    padding: 20px 0;
+}
+
+.container h2 {
+    padding: 20px;
+}
+
+.heading, .container .para-margin p {
+    margin-top: 25px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+
+.container p {
+    margin-bottom: 25px;
+}
+
+
+.lead {
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+}
+
+.product p {
+    margin-bottom: 15px;
+    padding: 20px;
+}
+
+#checkout {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+footer, .container a:link { 
+    text-decoration: none;
+}
+
+
+footer .container a:visited { 
+    text-decoration: none;
+}
+
+
+footer .container a:hover { 
+    text-decoration: none;
+}
+
+
+footer .container a:active { 
+    text-decoration: none; 
+}
